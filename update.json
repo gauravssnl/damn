@@ -1,6 +1,6 @@
 {
-	"version": "v0.0.2",
-	"versionCode": 000002,
-	"zipUrl": "https://github.com/newbit1/damn/releases/download/v0.0.2/DisableAllModulesNow.zip",
-    "changelog": "https://raw.githubusercontent.com/newbit1/damn/master/CHANGELOG"
+    "version": "v0.0.2",
+    "versionCode": 00002,
+    "zipUrl": "https://github.com/newbit1/damn/releases/download/v0.0.2/DisableAllModulesNow.zip",
+    "changelog": "https://raw.githubusercontent.com/newbit1/damn/master/CHANGELOG.md"
 }
