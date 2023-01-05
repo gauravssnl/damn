@@ -1,7 +1,7 @@
 id=DAMN
 name=Disable All Modules Now
-version=v0.0.2
-versionCode=00002
+version=v1.0.1
+versionCode=10001
 author=NewBit @ XDA
 description=Disables all installed modules. If you are in a Boot Loop, create /cache/damn file in TWRP via touch /cache/damn or adb shell "touch /data/local/tmp/damn"
 updateJson=https://raw.githubusercontent.com/newbit1/damn/master/update.json
